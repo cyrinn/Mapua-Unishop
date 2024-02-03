@@ -1,0 +1,634 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.home-XvV {
+  width: 100%;
+  height: 83.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.home-XvV .side-bar-HPs {
+  box-sizing: border-box;
+  padding: 4.1rem 3.4rem 40.2rem 2.8rem;
+  width: 35.5rem;
+  height: 76.5rem;
+  position: absolute;
+  left: 0;
+  top: 6.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.home-XvV .side-bar-HPs .group-15-MuX {
+  margin-bottom: 5.1rem;
+  width: 100%;
+  height: 8.3rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-15-MuX .ellipse-1-hyP {
+  margin-right: 0.8rem;
+  width: 8.7rem;
+  height: 8.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-15-MuX .group-14-TBs {
+  margin: 1.1rem 0rem 1.7rem 0rem;
+  height: calc(100% - 2.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-15-MuX .group-14-TBs .nicole-rivera-PLR {
+  margin-bottom: 0.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-15-MuX .group-14-TBs .nacriveramymailmapuaeduph-hM7 {
+  margin-left: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX {
+  margin-right: 3.4rem;
+  width: 25.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .group-23-X5F {
+  box-sizing: border-box;
+  padding-right: 13rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .group-23-X5F .post-icon-1-s97 {
+  margin-right: 0.8rem;
+  width: 5.3rem;
+  height: 4.9rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .group-23-X5F .post-Q93 {
+  margin-top: 0.4rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .auto-group-5whf-6Gm {
+  box-sizing: border-box;
+  padding-top: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .auto-group-5whf-6Gm .group-24-3Su {
+  margin: 0rem 6.1rem 2.6rem 0rem;
+  width: calc(100% - 6.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .auto-group-5whf-6Gm .group-24-3Su .message-icon-1-ybT {
+  margin-right: 1.1rem;
+  width: 5rem;
+  height: 4.6rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .auto-group-5whf-6Gm .group-24-3Su .message-abF {
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .auto-group-5whf-6Gm .group-25-iSZ {
+  margin: 0rem 7.3rem 0rem 0.8rem;
+  width: calc(100% - 8.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .auto-group-5whf-6Gm .group-25-iSZ .setting-icon-1-3zd {
+  margin-right: 1.1rem;
+  width: 4.2rem;
+  height: 4.3rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-XvV .side-bar-HPs .group-13-QFX .auto-group-5whf-6Gm .group-25-iSZ .settings-Q4V {
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .group-20-LD3 {
+  box-sizing: border-box;
+  padding: 0.5rem 0.9094rem;
+  width: 86.7rem;
+  height: 25rem;
+  position: absolute;
+  left: 38rem;
+  top: 72.4rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.25);
+}
+.home-XvV .group-20-LD3 .group-16-ptu {
+  width: 82.6928rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .auto-group-pn1b-at5 {
+  margin-right: 1.7427rem;
+  width: 26.5501rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .auto-group-pn1b-at5 .picture-7d7 {
+  width: 26.5501rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .auto-group-pn1b-at5 .price-GF7 {
+  width: 26.4476rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0.1025rem;
+  top: 21.2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #9d0e0e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ede7e7;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .text-ws3 {
+  margin: 1rem 0rem 1.8rem 0rem;
+  height: calc(100% - 2.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .text-ws3 .for-rent-gZj {
+  margin-bottom: 0.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #9d0e0e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .text-ws3 .auto-group-pezb-E5T {
+  margin-bottom: 1rem;
+  width: 21.1rem;
+  height: 5.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .text-ws3 .auto-group-pezb-E5T .the-cityflats-m5P {
+  width: 21.1rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #fda50f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .text-ws3 .auto-group-pezb-E5T .francine-penecilla-3ob {
+  width: 12.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .text-ws3 .new-bought-on-january-3-2024-with-receipt-24-x-36-freebie-pencil-per-day-LXo {
+  margin-bottom: 8.1rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .group-20-LD3 .group-16-ptu .text-ws3 .draftingtable-eng101-arch101-artmaterials-F8y {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9d0e0e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .second-item-7gy {
+  width: 86.7rem;
+  height: 25rem;
+  position: absolute;
+  left: 38rem;
+  top: 44.8rem;
+}
+.home-XvV .second-item-7gy .picture-fCh {
+  width: 26.4rem;
+  height: 24rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-XvV .second-item-7gy .group-20-BB3 {
+  box-sizing: border-box;
+  padding: 1.5rem 1rem 0.4rem 1.1rem;
+  width: 86.7rem;
+  height: 25rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(0, 0, 0, 0.25);
+}
+.home-XvV .second-item-7gy .group-20-BB3 .text-7Kb {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-XvV .second-item-7gy .group-20-BB3 .text-7Kb .for-sale-Ev1 {
+  margin: 0rem 18.6rem 0.3rem 0rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #9d0e0e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .second-item-7gy .group-20-BB3 .text-7Kb .auto-group-wttd-AHs {
+  margin: 0rem 0rem 1rem 28.2rem;
+  width: 56.4rem;
+  height: 5.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-XvV .second-item-7gy .group-20-BB3 .text-7Kb .auto-group-wttd-AHs .life-works-and-writings-of-a-geniu-tjf {
+  width: 56.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #fda50f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-XvV .second-item-7gy .group-20-BB3 .text-7Kb .auto-group-wttd-AHs .alexus-fabros-D1F {
+  width: 9.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-XvV .second-item-7gy .group-20-BB3 .text-7Kb .jose-rizal-book-secondhand-serenade-with-plastic-cover-page-23-is-missing-iyb {
+  margin: 0rem 12.2rem 2.7rem 0rem;
+  max-width: 16rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-XvV .second-item-7gy .group-20-BB3 .text-7Kb .auto-group-83mx-Ppq {
+  margin-right: 42.9rem;
+  width: calc(100% - 42.9rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-XvV .second-item-7gy .group-20-BB3 .text-7Kb .auto-group-83mx-Ppq .price-8nR {
+  margin: 1rem 1.8rem 0rem 0rem;
+  width: 26.4rem;
+  height: 2.8rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #9d0e0e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ede7e7;
+  flex-shrink: 0;
+}
+.home-XvV .second-item-7gy .group-20-BB3 .text-7Kb .auto-group-83mx-Ppq .rizal102-books-PyF {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9d0e0e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .first-item-SwX {
+  width: 86.7rem;
+  height: 25rem;
+  cursor: pointer;
+  position: absolute;
+  left: 38rem;
+  top: 17.2rem;
+}
+.home-XvV .first-item-SwX .group-20-BeD {
+  box-sizing: border-box;
+  padding: 0.5rem 0.9094rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.1rem rgba(0, 0, 0, 0.25);
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj {
+  width: 63.9928rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .auto-group-stn9-h6m {
+  margin-right: 1.7427rem;
+  width: 26.5501rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .auto-group-stn9-h6m .picture-e21 {
+  width: 26.5501rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .auto-group-stn9-h6m .price-Zem {
+  width: 26.4476rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0.1025rem;
+  top: 21.2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #9d0e0e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ede7e7;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .text-F1o {
+  margin: 1rem 0rem 1.8rem 0rem;
+  height: calc(100% - 2.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .text-F1o .for-rent-BRF {
+  margin-bottom: 0.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #9d0e0e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .text-F1o .auto-group-ky2u-jBs {
+  margin-bottom: 1rem;
+  width: 22.4rem;
+  height: 5.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .text-F1o .auto-group-ky2u-jBs .drafting-table-5Wd {
+  width: 22.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #fda50f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .text-F1o .auto-group-ky2u-jBs .franchesca-sumagaysay-aTP {
+  width: 17.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .text-F1o .new-bought-on-january-3-2024-with-receipt-24-x-36-freebie-pencil-per-day-sSV {
+  margin-bottom: 2.7rem;
+  max-width: 32.4rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-XvV .first-item-SwX .group-20-BeD .group-16-jfj .text-F1o .draftingtable-eng101-arch101-artmaterials-9uo {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9d0e0e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-XvV .search-rJR {
+  width: 86.3rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 38.5rem;
+  top: 9.8rem;
+  display: flex;
+  align-items: center;
+}
+.home-XvV .search-rJR .search-LjP {
+  margin-right: 0.8083rem;
+  width: 73.6943rem;
+  height: 4.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.5);
+  flex-shrink: 0;
+}
+.home-XvV .search-rJR .auto-group-cspb-fWm {
+  margin-right: 0.7rem;
+  box-sizing: border-box;
+  padding: 0.6rem 0.674rem 0.6rem 0.808rem;
+  height: 100%;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  background-color: rgba(255, 253, 253, 0.5);
+  flex-shrink: 0;
+}
+.home-XvV .search-rJR .auto-group-cspb-fWm .icon-QDT {
+  width: 4.7154rem;
+  height: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-XvV .search-rJR .filter-tuK {
+  width: 4.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-XvV .search-rJR .filter-tuK .box-1U9 {
+  width: 4.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  box-sizing: border-box;
+  background-color: rgba(255, 253, 253, 0.5);
+}
+.home-XvV .search-rJR .filter-tuK .icon-jf3 {
+  width: 4.9rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-XvV .header-HAm {
+  box-sizing: border-box;
+  padding: 0.7rem 5rem;
+  width: 128.6rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #5d001e;
+}
+.home-XvV .header-HAm .group-5-pAh {
+  width: 34.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-XvV .header-HAm .group-5-pAh .auto-group-y9lh-mrd {
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mapuaunishoplogo-removebg-preview-1-bg-y6u.png');
+  flex-shrink: 0;
+}
+.home-XvV .header-HAm .group-5-pAh .auto-group-y9lh-mrd .logo-KNM {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-XvV .header-HAm .group-5-pAh .mapua-unishop-q5o {
+  margin-top: 0.3rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

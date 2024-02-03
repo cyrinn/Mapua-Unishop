@@ -1,0 +1,379 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.post-interface-69B {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.post-interface-69B .header-qsT {
+  box-sizing: border-box;
+  padding: 0.7rem 2.5rem;
+  width: 100%;
+  height: 7.4rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #5d001e;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.post-interface-69B .header-qsT .group-3-BRX {
+  width: 34.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.post-interface-69B .header-qsT .group-3-BRX .auto-group-gv7f-LZK {
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mapuaunishoplogo-removebg-preview-1-bg-tS1.png');
+  flex-shrink: 0;
+}
+.post-interface-69B .header-qsT .group-3-BRX .auto-group-gv7f-LZK .logo-huf {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.post-interface-69B .header-qsT .group-3-BRX .mapua-unishop-3Tj {
+  margin-top: 0.3rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R {
+  margin-right: 1.8rem;
+  width: calc(100% - 1.8rem);
+  height: 75.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .side-bar-bNm {
+  box-sizing: border-box;
+  padding: 3.1rem 1.7rem 40.5rem 1.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #e3e2df;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .side-bar-bNm .ellipse-1-7ru {
+  margin-bottom: 5.1rem;
+  width: 8.7rem;
+  height: 8.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .side-bar-bNm .post-icon-1-GE1 {
+  margin-bottom: 2.4rem;
+  width: 5.3rem;
+  height: 4.9rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .side-bar-bNm .message-icon-1-c2y {
+  margin: 0rem 0.3rem 2.6rem 0rem;
+  width: 5rem;
+  height: 4.6rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .side-bar-bNm .setting-icon-1-JgV {
+  margin-left: 0.5rem;
+  width: 4.2rem;
+  height: 4.3rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 {
+  box-sizing: border-box;
+  padding: 2.3rem 0rem 2.2rem 2.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu {
+  margin-right: 1.7rem;
+  width: 83.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-pictures-etm {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 51.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-pictures-etm .auto-group-grgy-miV {
+  margin-right: 1.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-pictures-etm .auto-group-grgy-miV .pict-1-j9X {
+  margin-bottom: 2.4rem;
+  width: 23.9rem;
+  height: 24.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-pictures-etm .auto-group-grgy-miV .pict-3-3AD {
+  width: 23.9rem;
+  height: 24.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-pictures-etm .auto-group-lmkq-BnD {
+  margin-right: 1.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-pictures-etm .auto-group-lmkq-BnD .pict-2-Ycm {
+  margin-bottom: 2.4rem;
+  width: 23.9rem;
+  height: 24.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-pictures-etm .auto-group-lmkq-BnD .pict-4-gDB {
+  width: 23.9rem;
+  height: 24.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-pictures-etm .pict-5-Qus {
+  width: 32.7rem;
+  height: 51.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-title-name-wuo {
+  margin-bottom: 0.7rem;
+  box-sizing: border-box;
+  padding: 0.4rem 1.1rem 0.6rem 1.1rem;
+  width: 100%;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .item-title-name-wuo .life-works-and-writings-of-a-genius-writer-scientist-and-national-hero-FvV {
+  max-width: 79.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .auto-group-69df-Jpu .seller-message-Mid {
+  box-sizing: border-box;
+  padding: 1.3rem 1.1rem;
+  width: 100%;
+  height: 10.4rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD {
+  box-sizing: border-box;
+  padding: 2rem 1rem 1.9rem 1.5rem;
+  width: 26rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-ypfj-LqT {
+  margin: 0rem 1.7rem 3.3rem 0rem;
+  width: calc(100% - 1.7rem);
+  height: 6.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-ypfj-LqT .ellipse-2-sKb {
+  margin-right: 1.6rem;
+  width: 6.5rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-ypfj-LqT .auto-group-qjuh-CMs {
+  margin: 0.8rem 0rem 1.6rem 0rem;
+  width: 13.7rem;
+  height: calc(100% - 2.4rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-ypfj-LqT .auto-group-qjuh-CMs .seller-name-8WR {
+  width: 13.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-ypfj-LqT .auto-group-qjuh-CMs .nacrivera01-F5F {
+  width: 8.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 2.6rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-nhfk-wyf {
+  margin: 0rem 6.2rem 1.2rem 5rem;
+  width: calc(100% - 11.2rem);
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-nhfk-wyf .campus-location-ssK {
+  width: 12.3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-nhfk-wyf .campus-location-QMT {
+  width: 12.3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .item-123-V81 {
+  margin: 0rem 1.3rem 3.5rem 0rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .jose-rizal-book-secondhand-serenade-with-plastic-cover-page-23-is-missing-wEu {
+  margin: 0rem 0rem 20.5rem 0.7rem;
+  max-width: 20rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-mrsk-Dy7 {
+  margin-left: 0.6rem;
+  width: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-mrsk-Dy7 .ellipse-3-AtM {
+  margin-right: 0.9rem;
+  width: 4.8rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.post-interface-69B .auto-group-cd57-W6R .auto-group-xf5x-ae1 .side-item-information-FJD .auto-group-mrsk-Dy7 .auto-group-cblh-XD7 {
+  width: 17.2rem;
+  height: 4.3rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-13-um7.png');
+  flex-shrink: 0;
+}

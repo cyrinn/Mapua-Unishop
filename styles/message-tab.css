@@ -1,0 +1,693 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.message-tab-keR {
+  width: 100%;
+  height: 83.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.message-tab-keR .message-preview-3dX {
+  width: 39rem;
+  height: 81rem;
+  position: absolute;
+  left: 12rem;
+  top: 7.4rem;
+}
+.message-tab-keR .message-preview-3dX .message-preview-bg-kXw {
+  width: 39rem;
+  height: 75.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #e3e2df;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.message-tab-keR .message-preview-3dX .user-message-8-4Yd {
+  box-sizing: border-box;
+  padding: 1.3rem 2.806rem 1.2rem 2.923rem;
+  width: 38.9rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 0;
+  top: 71.6rem;
+  display: flex;
+  align-items: center;
+}
+.message-tab-keR .message-preview-3dX .user-message-8-4Yd .profile-pic-ZVP {
+  margin-right: 2.0155rem;
+  width: 7.256rem;
+  height: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-8-4Yd .auto-group-gnmk-sky {
+  margin: 0.4rem 0rem 0.6rem 0rem;
+  height: calc(100% - 1rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-8-4Yd .auto-group-gnmk-sky .charis-rolluqui-Bmf {
+  margin: 0rem 0rem 0.9rem 0.006rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-8-4Yd .auto-group-gnmk-sky .hi-this-is-nicole-rivera-i-am-se--tAH {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #565050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-7-aYu {
+  box-sizing: border-box;
+  padding: 1.329rem 2.806rem 1.227rem 2.923rem;
+  width: 38.9rem;
+  height: 9.6121rem;
+  position: absolute;
+  left: 0;
+  top: 62.8879rem;
+  display: flex;
+  align-items: center;
+}
+.message-tab-keR .message-preview-3dX .user-message-7-aYu .profile-pic-gM3 {
+  margin-right: 2.0155rem;
+  width: 7.256rem;
+  height: 7.0557rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-7-aYu .auto-group-zs25-RpR {
+  margin: 0.409rem 0rem 0.656rem 0rem;
+  height: calc(100% - 1.0654rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-7-aYu .auto-group-zs25-RpR .marian-dela-cruz-AGD {
+  margin: 0rem 0rem 0.99rem 0.006rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-7-aYu .auto-group-zs25-RpR .hi-this-is-nicole-rivera-i-am-se--UXo {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #565050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-6-NNH {
+  box-sizing: border-box;
+  padding: 1.329rem 2.806rem 1.227rem 2.923rem;
+  width: 38.9rem;
+  height: 9.6121rem;
+  position: absolute;
+  left: 0;
+  top: 53.787rem;
+  display: flex;
+  align-items: center;
+}
+.message-tab-keR .message-preview-3dX .user-message-6-NNH .profile-pic-spq {
+  margin-right: 2.0155rem;
+  width: 7.256rem;
+  height: 7.0557rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-6-NNH .auto-group-tndj-d3K {
+  margin: 0.409rem 0rem 0.656rem 0rem;
+  height: calc(100% - 1.0654rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-6-NNH .auto-group-tndj-d3K .francine-penecilla-jc9 {
+  margin: 0rem 0rem 0.99rem 0.006rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-6-NNH .auto-group-tndj-d3K .hi-this-is-nicole-rivera-i-am-se--To3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #565050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-5-Byw {
+  box-sizing: border-box;
+  padding: 1.329rem 2.806rem 1.227rem 2.923rem;
+  width: 38.9rem;
+  height: 9.6121rem;
+  position: absolute;
+  left: 0;
+  top: 35.7898rem;
+  display: flex;
+  align-items: center;
+}
+.message-tab-keR .message-preview-3dX .user-message-5-Byw .profile-pic-gvh {
+  margin-right: 2.0155rem;
+  width: 7.256rem;
+  height: 7.0557rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-5-Byw .auto-group-zuxf-bXs {
+  margin: 0.409rem 0rem 0.656rem 0rem;
+  height: calc(100% - 1.0654rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-5-Byw .auto-group-zuxf-bXs .janna-mina-je5 {
+  margin: 0rem 0rem 0.99rem 0.006rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-5-Byw .auto-group-zuxf-bXs .hi-this-is-nicole-rivera-i-am-se--fnd {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #565050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-4-odw {
+  box-sizing: border-box;
+  padding: 1.329rem 2.806rem 1.227rem 2.923rem;
+  width: 38.9rem;
+  height: 9.6121rem;
+  position: absolute;
+  left: 0;
+  top: 44.9929rem;
+  display: flex;
+  align-items: center;
+}
+.message-tab-keR .message-preview-3dX .user-message-4-odw .profile-pic-7ed {
+  margin-right: 2.0155rem;
+  width: 7.256rem;
+  height: 7.0557rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-4-odw .auto-group-xaqb-SS1 {
+  margin: 0.409rem 0rem 0.656rem 0rem;
+  height: calc(100% - 1.0654rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-4-odw .auto-group-xaqb-SS1 .charlize-delavin-Acu {
+  margin: 0rem 0rem 0.99rem 0.006rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-4-odw .auto-group-xaqb-SS1 .hi-this-is-nicole-rivera-i-am-se--V9P {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #565050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-3-Dr5 {
+  box-sizing: border-box;
+  padding: 1.329rem 2.806rem 1.227rem 2.923rem;
+  width: 38.9rem;
+  height: 9.6121rem;
+  position: absolute;
+  left: 0;
+  top: 26.7913rem;
+  display: flex;
+  align-items: center;
+}
+.message-tab-keR .message-preview-3dX .user-message-3-Dr5 .profile-pic-YNZ {
+  margin-right: 2.0155rem;
+  width: 7.256rem;
+  height: 7.0557rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-3-Dr5 .auto-group-rgtd-UX7 {
+  margin: 0.409rem 0rem 0.656rem 0rem;
+  height: calc(100% - 1.0654rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-3-Dr5 .auto-group-rgtd-UX7 .alexus-fabros-WTo {
+  margin: 0rem 0rem 0.99rem 0.006rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-3-Dr5 .auto-group-rgtd-UX7 .hi-this-is-nicole-rivera-i-am-se--qky {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #565050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-2-kN9 {
+  box-sizing: border-box;
+  padding: 1.329rem 1.6rem 1.227rem 2.923rem;
+  width: 38.9rem;
+  height: 9.6121rem;
+  position: absolute;
+  left: 0;
+  top: 17.7927rem;
+  display: flex;
+  align-items: center;
+}
+.message-tab-keR .message-preview-3dX .user-message-2-kN9 .profile-pic-Fph {
+  margin-right: 2.0155rem;
+  width: 7.256rem;
+  height: 7.0557rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-2-kN9 .auto-group-ybqp-Czq {
+  margin: 0.409rem 0rem 0.656rem 0rem;
+  height: calc(100% - 1.0654rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-2-kN9 .auto-group-ybqp-Czq .franchesca-sumagay-vfw {
+  margin: 0rem 0rem 0.99rem 0.006rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-2-kN9 .auto-group-ybqp-Czq .hi-this-is-nicole-rivera-i-am-se--rJh {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #565050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-1-P3j {
+  box-sizing: border-box;
+  padding: 1.329rem 1.5rem 1.227rem 2.5rem;
+  width: 38.6rem;
+  height: 9.6121rem;
+  position: absolute;
+  left: 0;
+  top: 8.1805rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(217, 217, 217, 0.8000000119);
+}
+.message-tab-keR .message-preview-3dX .user-message-1-P3j .profile-pic-h4R {
+  margin-right: 2rem;
+  width: 7.2rem;
+  height: 7.0557rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-1-P3j .auto-group-tte1-3PB {
+  margin: 0.409rem 0rem 0.656rem 0rem;
+  height: calc(100% - 1.0654rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-1-P3j .auto-group-tte1-3PB .nicole-rivera-nLm {
+  margin-bottom: 0.9903rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .user-message-1-P3j .auto-group-tte1-3PB .hi-this-is-nicole-rivera-may-i-ask--5qf {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #565050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .message-search-area-nEH {
+  width: 33.8rem;
+  height: 5.0106rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+.message-tab-keR .message-preview-3dX .message-search-area-nEH .auto-group-zpgz-7GZ {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.92rem 3.7rem 0.99rem 3.7rem;
+  width: 28.5rem;
+  height: 100%;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #616161;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-K9w.png');
+  flex-shrink: 0;
+}
+.message-tab-keR .message-preview-3dX .message-search-area-nEH .image-4-wmP {
+  margin-bottom: 0rem;
+  width: 4.3rem;
+  height: 4.397rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj {
+  width: 77rem;
+  height: 76.3rem;
+  position: absolute;
+  left: 51rem;
+  top: 6.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.message-tab-keR .message-line-tRj .user-name-csX {
+  box-sizing: border-box;
+  padding: 1.6rem 36rem 1.6rem 3.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #e1e1e1;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .user-name-csX .ellipse-2-jSM {
+  margin-right: 2.4rem;
+  width: 9.8rem;
+  height: 9.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .user-name-csX .nicole-rivera-gMb {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #616161;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .auto-group-dspw-oBK {
+  box-sizing: border-box;
+  padding: 2.382rem 1.2rem 3.076rem 1.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .auto-group-dspw-oBK .first-message-KvM {
+  margin: 0rem 0rem 1.786rem 35.7rem;
+  box-sizing: border-box;
+  padding: 0.992rem 2.4rem 1.347rem 1.6rem;
+  width: 38.9rem;
+  height: 7.7387rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-21.png');
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .auto-group-dspw-oBK .first-message-KvM .text-DVw {
+  max-width: 34.9rem;
+  text-align: right;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #616161;
+  font-family: Inter, 'Source Sans Pro';
+}
+.message-tab-keR .message-line-tRj .auto-group-dspw-oBK .second-message-8N1 {
+  margin: 0rem 34.9rem 1.786rem 0rem;
+  box-sizing: border-box;
+  padding: 1.191rem 2.4rem 1.148rem 2.6rem;
+  width: 39.7rem;
+  height: 7.7387rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-20.png');
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .auto-group-dspw-oBK .second-message-8N1 .text-1Au {
+  max-width: 34.7rem;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.message-tab-keR .message-line-tRj .auto-group-dspw-oBK .third-message-KSV {
+  margin: 0rem 0rem 1.786rem 33.2rem;
+  box-sizing: border-box;
+  padding: 1.191rem 2.4rem 1.148rem 3.1rem;
+  width: 41.4rem;
+  height: 7.7387rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-13.png');
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .auto-group-dspw-oBK .third-message-KSV .text-dTB {
+  max-width: 35.9rem;
+  text-align: right;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #616161;
+  font-family: Inter, 'Source Sans Pro';
+}
+.message-tab-keR .message-line-tRj .auto-group-dspw-oBK .fourth-message-N9s {
+  margin-right: 28.9rem;
+  box-sizing: border-box;
+  padding: 1.191rem 2.6rem 1.341rem 2.6rem;
+  width: 45.7rem;
+  height: 21.2317rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-22.png');
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .auto-group-dspw-oBK .fourth-message-N9s .text-Hnd {
+  max-width: 37.6rem;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.message-tab-keR .message-line-tRj .message-area-nDb {
+  box-sizing: border-box;
+  padding: 1.488rem 3.6rem 1.488rem 1.7rem;
+  width: 100%;
+  height: 7.9371rem;
+  display: flex;
+  align-items: center;
+  background-color: #e1e1e1;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .message-area-nDb .image-6-i7F {
+  margin: 0rem 2.8rem 0.198rem 0rem;
+  width: 3rem;
+  height: 2.9764rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .message-area-nDb .auto-group-gvd7-qhf {
+  margin-right: 2.2rem;
+  box-sizing: border-box;
+  padding: 0.794rem 3.5rem 1.067rem 3.5rem;
+  width: 59.7rem;
+  height: 100%;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #616161;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12.png');
+  flex-shrink: 0;
+}
+.message-tab-keR .message-line-tRj .message-area-nDb .image-5-HpZ {
+  margin-top: 0rem;
+  width: 4rem;
+  height: 3.9685rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .side-bar-d7j {
+  box-sizing: border-box;
+  padding: 2.7rem 0rem 40.9rem 0.2rem;
+  width: 12rem;
+  height: 75.8rem;
+  position: absolute;
+  left: 0;
+  top: 7.4rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #e3e2df;
+  border-radius: 0.2rem;
+}
+.message-tab-keR .side-bar-d7j .ellipse-3-Hxy {
+  margin: 0rem 0.3rem 5.1rem 0rem;
+  width: 8.7rem;
+  height: 8.3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .side-bar-d7j .post-icon-1-pCD {
+  margin: 0rem 0.3rem 1.1rem 0rem;
+  width: 5.3rem;
+  height: 4.9rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .side-bar-d7j .auto-group-btff-ioP {
+  margin-bottom: 1.3rem;
+  box-sizing: border-box;
+  padding: 1.3rem 3.9rem 1.3rem 3.1rem;
+  width: 12rem;
+  background-color: #979494;
+  flex-shrink: 0;
+}
+.message-tab-keR .side-bar-d7j .auto-group-btff-ioP .message-icon-1-r8u {
+  width: 5rem;
+  height: 4.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.message-tab-keR .side-bar-d7j .setting-icon-1-Bws {
+  margin-left: 0.2rem;
+  width: 4.2rem;
+  height: 4.3rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .header-ro7 {
+  box-sizing: border-box;
+  padding: 0.7rem 88.8rem 0.7rem 5rem;
+  width: 128.6rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #5d001e;
+}
+.message-tab-keR .header-ro7 .logo-yMw {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.message-tab-keR .header-ro7 .mapua-unishop-8Eq {
+  margin-top: 0.3rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
